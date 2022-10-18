@@ -1,0 +1,129 @@
+.first{
+    background-color: pink;
+    font-family: 'Sacramento';
+    font-weight: 400;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 60px;
+    line-height: 24px;
+    
+    
+    
+}
+.first-type{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-size: 25px;
+    padding-top: 0px;
+
+}
+
+.second{
+    text-align: center;
+    font-style: normal;
+    font-family: 'Montserrat';
+    font-size: 18px;
+    color:crimson;
+    /* padding-bottom: 30px; */
+    line-height: 35px;
+}
+
+.second img{
+    border-radius: 50%;
+}
+
+.second hr{
+    border : none;
+    border-top: 15px dotted teal;
+    height: 5px;
+    width: 8%;
+}
+.second p{
+    line-height: 50px;
+}
+
+.third{
+    padding-top: 25px;
+    padding-bottom: 30px;
+    background-color:#D8D8D8;
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-size: 25px;
+    font-style: normal;
+}
+.third h2{
+    padding-top: 15px;
+    text-align: center;
+    color: crimson;
+}
+.third img{
+    float: left;    
+    margin: 0 15px 0 0;
+    margin-left: 65px;
+    border-radius: 50%;
+    width: 120px;
+    padding-right: 20px;
+}
+
+.third p{
+    padding-top: 17px;
+    padding-left: 22px;
+    padding-right: 150px;
+    padding-bottom: 100px;
+}
+
+.four{
+    padding-top: 30px;
+    padding-bottom: 60px;
+    text-align: center;
+    font-size: 26px;
+    color: crimson;
+    font-family: 'Maitree', serif;
+}
+
+.four hr{
+    border : none;
+    border-top: 15px dotted teal;
+    height: 5px;
+    width: 8%;
+}
+.four h1{
+    color: black;
+}
+
+.four button{
+    background-color: crimson;
+    border: none;
+    border-radius: 2px;
+    display: inline-block;
+    border-radius: 12px;
+    font-size: 24px;
+    margin: 4px 2px;
+    
+}
+.four a{
+    text-decoration: none;
+    color: white;
+}
+
+.five{
+    background-color: pink;
+    padding-top: 50px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+.five a{
+    padding-left: 35px;
+    color: crimson;
+    text-decoration: none;
+    font-size: 26px;
+    font-style: normal;
+    font-family: 'Montserrat';
+}
+.five-p{
+    font-family: 'Montserrat';
+    color: black;
+    padding-top: 10px;
+    font-weight: 20px;
+}
